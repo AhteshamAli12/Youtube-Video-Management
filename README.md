@@ -44,8 +44,9 @@ This project was inspired by learning materials from [Chai aur Code]([https://ww
 
 ## Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** your-email@example.com
+- **LinkedIn:** (https://www.linkedin.com/in/ahtesham-ali12/)
+- **Facebook:** (https://www.facebook.com/Ahtesham786Ali)
+
 
 Feel free to reach out with any questions or suggestions!
 
